@@ -5,7 +5,7 @@ A responsive chat application built with **Next.js**, **Zustand**, simulating ch
 ---
 
 ## Live Demo
-[Live Link](https://your-live-link.com) *(Replace with actual deployed link)*
+[Live Link](gemini-clone-bjvs.vercel.app) 
 
 ---
 
