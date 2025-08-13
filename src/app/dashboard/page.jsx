@@ -1,5 +1,5 @@
 'use client'
-import { useStore } from '@/lib/store'
+import { useStore } from '../../lib/store'
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import toast, { Toaster } from 'react-hot-toast'

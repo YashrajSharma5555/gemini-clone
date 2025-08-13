@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import toast, { Toaster } from 'react-hot-toast'
 import { ClientTimestamp } from './clientTimestamp'
-import { useStore } from '@/lib/store'
+import { useStore } from '../../../lib/store'
 import { useParams } from 'next/navigation'
 
 

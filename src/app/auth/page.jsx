@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import { useForm } from 'react-hook-form'
 import { z } from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { useStore } from '@/lib/store'
+import { useStore } from '../../lib/store'
 import toast, { Toaster } from 'react-hot-toast'
 import { useRouter } from 'next/navigation'
 
